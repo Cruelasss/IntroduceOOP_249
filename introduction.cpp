@@ -7,6 +7,7 @@ class mahasiswa{
     int nim;
     string nama;
     float nilai;
+    float nilai;
     
     void print_date(){
         cout << "NIM    = " << nim << endl;
