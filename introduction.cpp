@@ -16,6 +16,10 @@ class mahasiswa{
 };
 
 int main(){
+    mahasiswa mhs;
+    mhs.nim = 2023;
+    mhs.nama = "Regar";
+    mhs.nilai = 99.9;
 
-
+    mhs.print_date();
 }
